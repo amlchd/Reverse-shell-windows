@@ -70,7 +70,7 @@ def get_ip_from_mac(mac):
 
     return None
 
-target_mac = "d0:39:fa:8d:da:d0"
+target_mac = "SERVER_MAC-ADDR"
 
 subnet = get_subnet()
 
